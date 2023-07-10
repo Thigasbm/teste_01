@@ -1,0 +1,15 @@
+{
+  "name": "teste_01",
+  "version": "1.0.0",
+  "description": "descrição",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thiago :D",
+  "license": "ISC",
+  "dependencies": {
+    "tap-spec": "^5.0.0",
+    "tape": "^5.6.4"
+  }
+}
